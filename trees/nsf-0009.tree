@@ -1,0 +1,15 @@
+\title{The central dogma of biology}
+\date{2023-09-06}
+
+\p{
+  The \em{central dogma of biology} says:
+  \ol{
+    \li{DNA acts as long-term storage,}
+    \li{proteins are constructed using DNA as a template,}
+    \li{
+      to construct a particular protein, a corresponding section of DNA called a
+      \em{gene} is \em{transcribed} into messenger RNA, which is then translated
+      into a protein bya giant molecular complex called a ribosome.
+    }
+  }
+}
