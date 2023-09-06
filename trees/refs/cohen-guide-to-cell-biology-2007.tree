@@ -1,0 +1,14 @@
+\title{A Computer Scientist's Guide to Cell Biology}
+\date{2007}
+\taxon{reference}
+\author{William W. Cohen}
+\tag{book}
+\meta{bibtex}{\startverb%
+@book{cohen-guide-to-cell-biology-2007,
+  title     = {A Computer Scientist's Guide to Cell Biology},
+  author    = {William W. Cohen},
+  year      = {2007},
+  publisher = {Springer Science & Business Media},
+  isbn      = {9780387482750},
+}
+\stopverb}
